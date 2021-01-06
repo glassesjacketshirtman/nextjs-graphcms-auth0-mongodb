@@ -1,0 +1,6 @@
+.env
+.env.local
+.env.production
+.next
+node_modules/
+now.json
